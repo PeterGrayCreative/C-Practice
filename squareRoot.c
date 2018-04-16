@@ -3,10 +3,8 @@
 
 int main(void)
 {
-  double root;
-  root = sqrt(128934);
-  printf("%f", root);
-  printf("\n");
+  double root = sqrt(128934);
+  printf("%f\n", root);
 
   return (0);
 }
